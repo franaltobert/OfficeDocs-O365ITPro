@@ -265,7 +265,9 @@ Assisted support options are for admins of Office 365 Germany subscribed organiz
 | All other markets within the European Economic Area | +49 69 380 789 305 | Billing Support:  German: Mon-Fri 9-5 Berlin(UTC+1) English: Mon-Fri 9-5 Berlin (UTC +1)  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the admin center. |
 
 ### Let our community help
-
+office.com/setup - Enter Product Key - www.office.com/setup
+https://officecom-setup.uk.com
+office.com/setup - Enter office setup 25 digit product key at www.office.com/setup to activate office setup 365 or 2019. Steps to download and install Microsoft Office
 You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.
 
 ::: moniker-end
